@@ -5167,6 +5167,16 @@
 	)
 	(wire
 		(pts
+			(xy 109.22 43.18) (xy 107.95 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1a04f5c9-d329-435c-8ba5-5a6c2ea57f1b")
+	)
+	(wire
+		(pts
 			(xy 102.87 99.06) (xy 109.22 99.06)
 		)
 		(stroke
@@ -5477,7 +5487,7 @@
 	)
 	(wire
 		(pts
-			(xy 115.57 43.18) (xy 120.65 43.18)
+			(xy 116.84 43.18) (xy 120.65 43.18)
 		)
 		(stroke
 			(width 0)
@@ -11146,7 +11156,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 111.76 43.18 270)
+		(at 113.03 43.18 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11154,7 +11164,7 @@
 		(dnp no)
 		(uuid "c4e2af12-2a55-44a6-8078-7e11ddb4c201")
 		(property "Reference" "C18"
-			(at 114.808 41.91 90)
+			(at 116.078 41.91 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11162,7 +11172,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 115.316 44.45 90)
+			(at 116.586 44.45 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11170,7 +11180,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 107.95 44.1452 0)
+			(at 109.22 44.1452 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11179,7 +11189,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 111.76 43.18 0)
+			(at 113.03 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11188,7 +11198,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 111.76 43.18 0)
+			(at 113.03 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
