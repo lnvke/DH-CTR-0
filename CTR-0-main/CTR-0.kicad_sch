@@ -4531,7 +4531,7 @@
 	)
 	(rectangle
 		(start 115.57 107.95)
-		(end 133.35 156.21)
+		(end 133.35 154.94)
 		(stroke
 			(width 0)
 			(type default)
@@ -4640,6 +4640,16 @@
 			)
 		)
 		(uuid "c543856b-6a26-453b-a02a-0259d31c1979")
+	)
+	(text "RUN\n"
+		(exclude_from_sim no)
+		(at 131.064 153.924 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "cfb7fb4f-be8d-4b3e-bd38-cfc4bbcf16c5")
 	)
 	(text "TVS Diode\n"
 		(exclude_from_sim no)
@@ -8747,7 +8757,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "156610b0-b69e-4f58-b7f3-6a9c5e3d1485")
 		(property "Reference" "#PWR022"
 			(at 129.54 154.94 0)
@@ -8759,7 +8768,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 129.54 153.67 0)
+			(at 125.984 150.368 0)
 			(effects
 				(font
 					(size 1.27 1.27)
