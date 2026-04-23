@@ -54,7 +54,24 @@
         }
       },
       "diff_pair_dimensions": [],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "lib_footprint_mismatch|181500000|95505000|58a27935-85e5-4f78-9e65-2ae06c95b66b|00000000-0000-0000-0000-000000000000",
+          "edited graphic"
+        ],
+        [
+          "lib_footprint_mismatch|190500000|119635000|adf6c447-9f08-42f5-b86d-01c7f517f184|00000000-0000-0000-0000-000000000000",
+          "edited graphic"
+        ],
+        [
+          "lib_footprint_mismatch|190500000|73015000|06a2aba2-4908-4185-aef7-dc4452d97a73|00000000-0000-0000-0000-000000000000",
+          "edited graphic"
+        ],
+        [
+          "lib_footprint_mismatch|199500000|95505000|a3fdbd44-c30c-4631-9f6c-aadb0032135c|00000000-0000-0000-0000-000000000000",
+          "edited graphic"
+        ]
+      ],
       "meta": {
         "version": 2
       },
