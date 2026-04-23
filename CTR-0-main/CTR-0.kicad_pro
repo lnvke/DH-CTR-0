@@ -542,7 +542,7 @@
       "method": 0,
       "sort_order": 0
     },
-    "bom_export_filename": "${PROJECTNAME}.csv",
+    "bom_export_filename": "CTR-0.csv",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": ",",
@@ -671,7 +671,7 @@
       {
         "filename": "CTR-0.kicad_sch",
         "name": "CTR-0",
-        "uuid": "00000000-0000-0000-0000-000000000000"
+        "uuid": "68f715fb-4d48-413c-bc7b-70d6d6731680"
       }
     ],
     "used_designators": "",
@@ -680,7 +680,7 @@
   "sheets": [
     [
       "68f715fb-4d48-413c-bc7b-70d6d6731680",
-      "Root"
+      "CTR-0"
     ]
   ],
   "text_variables": {},
